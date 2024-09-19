@@ -1,8 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:untitled/s.dart';
-//import 'package:untitled/shared%20preference.dart';
-import 'package:untitled/sign.dart';
-import 'package:untitled/signin.dart';
 
 void main() {
   runApp(const MyApp());
